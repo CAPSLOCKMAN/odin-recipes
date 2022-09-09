@@ -3,7 +3,7 @@
 body {
     font-size: x-large;
     font-family: Georgia, Garamond, Tahoma;
-    color: rgb(234, 151, 165);
+    color: rgb(255, 185, 186);
     background-color: white;
     text-align: center;
 }
@@ -12,6 +12,7 @@ h1 {
     font-size: 100px;
     padding: 35px;
     margin: 0px;
+    color: rgb(255, 185, 186);
 }
 
 .conveyor {
@@ -41,10 +42,11 @@ a:link {
 }
 
 .topnav a {
-    color: rgb(234, 151, 165);
+    color: rgb(255, 185, 186);
     text-decoration: none;
     font-size: 20px;
-    width: auto;
+    text-decoration-line: underline;
+
 }
 .latte {
     text-align: left;
